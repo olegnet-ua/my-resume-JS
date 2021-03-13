@@ -79,8 +79,6 @@ body {
 
 /* COMMON */
 
-
-
 .tablet-element {
   display: none;
 }
@@ -92,6 +90,7 @@ body {
 .mobile-element {
   display: block;
 }
+
 .accent-btn {
   background: var(--c-accent);
   font-weight: bold;
